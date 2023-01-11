@@ -1,0 +1,36 @@
+.main__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.main__box1 {
+    width: 900px;
+    background-color: #FFF;
+    width: 900;
+    padding: 15px;
+}
+
+.date {
+    margin: 10px 0 0 10px;
+}
+
+.icon-heart {
+    margin: 10px 10px 0 0;
+}
+
+.date-heart {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main__paragraph1 {
+    font-weight: 500;
+    font-size: 26px;
+    margin: 15px 0 5px 15px;
+}
+
+.main__paragraph2 {
+    margin: 15px 0 5px 15px;
+}

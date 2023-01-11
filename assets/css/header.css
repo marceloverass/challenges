@@ -1,17 +1,18 @@
 .header {
     height: 170px;
     background: linear-gradient(270deg, #3EA1DB 0%, #574AE8 100%);
+    margin-bottom: 60px;
 }
 
-.container {
-    width: 800px;
+.header__container {
+    width: 900px;
     position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-.box1 {
+.header__box {
     display: flex;
     justify-content: space-between;
     margin-bottom: 40px;
